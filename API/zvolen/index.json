@@ -1,0 +1,19 @@
+
+{
+    "channelData": {
+        "channelName" : "zvolen",
+        "channelTitle" : "Zvolen",
+        "entries" : [
+            {
+                "title" : "Globus Brna",
+                "url_title" : "globus-brna",
+                "summary" : "City globe is now real!"
+            },
+            {
+                "title" : "FishTower",
+                "url_title" : "fishtower",
+                "summary" : "Installation of the FishTower aquarium on Baba pond in Trebic (cz)"
+            }
+        ]
+      }
+    }
