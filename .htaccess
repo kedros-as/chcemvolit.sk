@@ -1,8 +1,0 @@
-
-RewriteEngine on
-RewriteBase /
-
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond $1 !\.(gif|jpe?g|png)$ [NC]
-RewriteRule ^(.*)$ /index.html?$1 [L,QSA]
