@@ -1,0 +1,35 @@
+{"channelData": {
+    "categoryTitle" : "Kandidáti Sv.Anton",
+    "entries" : [
+        {
+        	"title" : "Juraj Fekiač",
+        	"url_title" : "juraj-fekiac",
+        	"channel_name" : "kandidati",
+        	"channel_title" : "Kandidáti",
+        	"cislo" : "1",
+        	"summary" : "42r., strojný zámočník, Sloboda a Solidarita, OBYČAJNÍ ĽUDIA a nezávislé osobnosti (OĽANO), SME RODINA – Boris Kollár",
+        	"fulltext" : null
+        },
+
+        {
+        	"title" : "Mário Hanzel",
+        	"url_title" : "mario-hanzel",
+        	"channel_name" : "kandidati",
+        	"channel_title" : "Kandidáti",
+        	"cislo" : "2",
+        	"summary" : "Ing., 43r., žurnalista, DOMA DOBRE",
+        	"fulltext" : null
+        },
+
+        {
+        	"title" : "Ivona Patrášová",
+        	"url_title" : "ivona-patrasova",
+        	"channel_name" : "kandidati",
+        	"channel_title" : "Kandidáti",
+        	"cislo" : "3",
+        	"summary" : "51r., ekonómka, Slovenská národná strana",
+        	"fulltext" : null
+        }
+    ]
+  }
+}

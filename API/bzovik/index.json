@@ -1,0 +1,28 @@
+{"channelData": {
+    "categoryTitle" : "Bzovík",
+    "entries" : [
+        {
+        	"title" : "Informácie k voľbám Bzovík",
+        	"url_title" : "info-bzovik",
+        	"channel_name" : "pages",
+        	"channel_title" : "Pages",
+        	"cislo" : "",
+       		"summary" : "Zoznam kandidátov a informácie pre voliča"
+        },{
+        	"title": "",
+            "url_title": "",
+            "images": [{
+               "image" : "/images/uploads/kviz.jpg",
+               "location": "\/home\/co-vies-o-samosprave",
+               "desc" : "kviz.jpg"},{
+               "image" : "/images/uploads/obec_kompetencie.png",
+               "desc" : "obec_kompetencie.png"},{
+               "image" : "/images/uploads/obec_pravomoci.png",
+               "desc" : "obec_pravomoci.png"},{
+               "image" : "/images/uploads/obec_rozhodovanie.png",
+               "desc" : "obec_rozhodovanie.png"}
+               ]}
+               
+    ]
+  }
+}

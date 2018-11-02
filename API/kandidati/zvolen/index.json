@@ -1,0 +1,55 @@
+{"channelData": {
+    "categoryTitle" : "Kandidáti Zvolen",
+    "entries" : [
+        {
+        	"title" : "Lenka Balkovičová",
+        	"url_title" : "lenka-balkovicova",
+        	"channel_name" : "kandidati",
+        	"channel_title" : "Kandidáti",
+        	"cislo" : "1",
+        	"summary" : "Ing., 56 r., primátorka mesta Zvolen, nezávislá kandidátka",
+        	"fulltext" : "<p>Porovnajte si svoje n\u00e1zory s kandid\u00e1tkou na <a href=\"\/zvolen\/volebna-kalkulacka\" title=\"\">Volebn\u00e1 kalkula\u010dka<\/a><\/p>"
+        },
+
+        {
+        	"title" : "Miroslav Kusein",
+        	"url_title" : "miroslav-kusein",
+        	"channel_name" : "kandidati",
+        	"channel_title" : "Kandidáti",
+        	"cislo" : "2",
+        	"summary" : "Ing., 61 r., súkromný podnikateľ, nezávislý kandidát",
+        	"fulltext" : "<p>Porovnajte si svoje n\u00e1zory s kandid\u00e1tom na <a href=\"\/zvolen\/volebna-kalkulacka\">Volebnej kalkula\u010dke<\/a><\/p>"
+        },
+
+        {
+        	"title" : "Roland Schaller",
+        	"url_title" : "roland-schaller",
+        	"channel_name" : "kandidati",
+        	"channel_title" : "Kandidáti",
+        	"cislo" : "3",
+        	"summary" : "Ing., 44 r., riaditeľ letiska, nezávislý kandidát, odpovede do volebnej kalkulačky nám neposlal.",
+        	"fulltext" : null
+        },
+
+        {
+        	"title" : "Ivan Sitár",
+        	"url_title" : "ivan-sitar",
+        	"channel_name" : "kandidati",
+        	"channel_title" : "Kandidáti",
+        	"cislo" : "4",
+        	"summary" : "Ing., 51 r, podnikateľ, Kotleba - ĽSNS, , odpovede do volebnej kalkulačky nám neposlal.",
+        	"fulltext" : null
+        },
+
+        {
+        	"title" : "Matej Snopko",
+        	"url_title" : "matej-snopko",
+        	"channel_name" : "kandidati",
+        	"channel_title" : "Kandidáti",
+        	"cislo" : "5",
+        	"summary" : "54 r., publicista, aktivista Zvolen pre ľudí, nezávislý kandidát, odpovede do volebnej kalkulačky nám neposlal.",
+        	"fulltext" : null
+        }
+    ]
+  }
+}

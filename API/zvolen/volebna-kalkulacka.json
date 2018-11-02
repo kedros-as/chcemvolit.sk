@@ -1,0 +1,165 @@
+{"channelData": {
+    "categoryTitle" : "Zvolen",
+    "entries" : [
+        {
+        	"title" : "Volebná kalkulačka Zvolen",
+        	"url_title" : "volebna-kalkulacka",
+        	"channel_name" : "pages",
+        	"channel_title" : "Pages",
+        	"cislo" : "",
+       		"summary" : "Otázky boli odoslané všetkým kandidátom, ale v stanovenom termíne odpovedali len pani Balkovičová a pán Kusein. V prípade, že obdržíme odpovede od ďalších kandidátov, tieto budú dodatočne zapracované do volebnej kalkulačky. ",
+        	"fulltext" : "",
+        	"kandidati" : 0,  
+        	"poslanci" : 0,  
+        	"images" : null,  
+        	"odpovede" : null, 
+        	"otazky" : [{
+           "otazka": "<h5>Prim\u00e1tor\/ka by mal navrhn\u00fa\u0165 vy\u010dlenenie prostriedkov v r\u00e1mci rozpo\u010dtu mesta na zavedenie participat\u00edvneho rozpo\u010dtu. (Samospr\u00e1va vy\u010dlen\u00ed \u010das\u0165 finan\u010dn\u00fdch prostriedkov o ktor\u00fdch vyu\u017eit\u00ed rozhodn\u00fa priamo ob\u010dania)<\/h5>",
+           "id": "1",
+           "odpovede": [
+           		"Áno",
+           		"Neviem",
+           		"Nie"
+           ]
+           },{
+           "otazka": "<h5>Ako prim\u00e1tor\/ka budem presadzova\u0165 vznik t\u00edmu kvalifikovan\u00fdch odborn\u00edkov, ktor\u00ed sa bud\u00fa venova\u0165 zap\u00e1janiu verejnosti do rozhodovania o v\u00fdznamn\u00fdch projektoch mesta.<\/h5>",
+           "id": "2",
+           "odpovede": [
+           		"Áno",
+           		"Neviem",
+           		"Nie"
+           ]
+           },{
+           "otazka": "<h5>Zele\u0148 v meste by nemala ustupova\u0165 parkovaniu \/ parkovisk\u00e1m.<\/h5>",
+           "id": "3",
+           "odpovede": [
+           		"Áno",
+           		"Neviem",
+           		"Nie"
+           ]
+           },{
+           "otazka": "<h5>Je potrebn\u00e9 nav\u00fd\u0161i\u0165 invest\u00edcie samospr\u00e1vy do starostlivosti o zele\u0148 a podpori\u0165 jej revitaliz\u00e1ciu a \u010fal\u0161iu v\u00fdsadbu.<\/h5>",
+           "id": "4",
+           "odpovede": [
+           		"Áno",
+           		"Neviem",
+           		"Nie"
+           ]
+           },{
+           "otazka": "<h5>Vo Zvolene je potrebn\u00e9 zv\u00fd\u0161i\u0165 po\u010det mestsk\u00fdch n\u00e1jomn\u00fdch bytov.<\/h5>",
+           "id": "5",
+           "odpovede": [
+           		"Áno",
+           		"Neviem",
+           		"Nie"
+           ]
+           },{
+           "otazka": "<h5>Je potrebn\u00e9 nav\u00fd\u0161i\u0165 invest\u00edcie do infra\u0161trukt\u00fary pre cyklodopravu.<\/h5>",
+           "id": "6",
+           "odpovede": [
+           		"Áno",
+           		"Neviem",
+           		"Nie"
+           ]
+           },{
+           "otazka": "<h5>MHD v meste by mala by\u0165 bezplatn\u00e1 pre obyvate\u013eov Zvolena<\/h5>",
+           "id": "7",
+           "odpovede": [
+           		"Áno",
+           		"Neviem",
+           		"Nie"
+           ]
+           },{
+           "otazka": "<h5>Poplatok za komun\u00e1lny odpad by mal by\u0165 zru\u0161en\u00fd.<\/h5>",
+           "id": "8",
+           "odpovede": [
+           		"Áno",
+           		"Neviem",
+           		"Nie"
+           ]
+           },{
+           "otazka": "<h5>Rodi\u010dom \u017eiakov, ktor\u00ed nastupuj\u00fa do prv\u00e9ho ro\u010dn\u00edka z\u00e1kladnej \u0161koly, by mala samospr\u00e1va bezplatne poskytnut\u00e9 \u0161kolsk\u00e9 potreby do v\u00fd\u0161ky 35 EUR.<\/h5>",
+           "id": "9",
+           "odpovede": [
+           		"Áno",
+           		"Neviem",
+           		"Nie"
+           ]
+           },{
+           "otazka": "<h5>Projekt Bariny, ktor\u00fd po\u010d\u00edta s v\u00fdstavbou k\u00fapaliska a in\u00fdch zariaden\u00ed, je potrebn\u00e9 zastavi\u0165 a v\u00fdrazne prepracova\u0165. <\/h5>",
+           "id": "10",
+           "odpovede": [
+           		"Áno",
+           		"Neviem",
+           		"Nie"
+           ]
+           },{
+           "otazka": "<h5>Ka\u017ed\u00fd obyvate\u013e mesta m\u00e1 pr\u00e1vo na zaparkovanie svojho auta v bl\u00edzkosti svojho domu a bezplatne.<\/h5>",
+           "id": "11",
+           "odpovede": [
+           		"Áno",
+           		"Neviem",
+           		"Nie"
+           ]
+           },{
+           "otazka": "<h5>V\u00fd\u0161ka prostriedkov, o ktor\u00fdch vyu\u017eit\u00ed rozhoduj\u00fa v\u00fdbory mestsk\u00fdch \u010dast\u00ed, by sa mal v\u00fdrazne zn\u00ed\u017ei\u0165.<\/h5>",
+           "id": "12",
+           "odpovede": [
+           		"Áno",
+           		"Neviem",
+           		"Nie"
+           ]
+           },{
+           "otazka": "<h5>Zvolen by mal ma\u0165 syst\u00e9m po\u017ei\u010diavania resp. zdie\u013eania bicyklov pre verejnos\u0165. <\/h5>",
+           "id": "13",
+           "odpovede": [
+           		"Áno",
+           		"Neviem",
+           		"Nie"
+           ]
+           },{
+           "otazka": "<h5>Poplatok za komun\u00e1lny odpad by mal by\u0165 nav\u00fd\u0161en\u00fd. <\/h5>",
+           "id": "14",
+           "odpovede": [
+           		"Áno",
+           		"Neviem",
+           		"Nie"
+           ]
+           },{
+           "otazka": "<h5>Mysl\u00edm si, \u017ee podmienky pre zber separovan\u00e9ho zberu v meste s\u00fa dostato\u010dn\u00e9.<\/h5>",
+           "id": "15",
+           "odpovede": [
+           		"Áno",
+           		"Neviem",
+           		"Nie"
+           ]
+           },{
+           "otazka": "<h5>Pravidl\u00e1 rozde\u013eovania dot\u00e1ci\u00ed by mali prejs\u0165 v\u00fdraznou zmenou s cie\u013eom reagova\u0165 na probl\u00e9my a potreby obyvate\u013eov.<\/h5>",
+           "id": "16",
+           "odpovede": [
+           		"Áno",
+           		"Neviem",
+           		"Nie"
+           ]
+           },{
+           "otazka": "<h5>Zvolen m\u00e1 nedostato\u010dn\u00fa sie\u0165 parkov a zelen\u00fdch pl\u00f4cha je potrebn\u00e9 ich roz\u0161\u00edrenie.<\/h5>",
+           "id": "17",
+           "odpovede": [
+           		"Áno",
+           		"Neviem",
+           		"Nie"
+           ]
+           },{
+           "otazka": "<h5>Kamerov\u00fd syst\u00e9m v meste by sa mal roz\u0161\u00edri\u0165.<\/h5>",
+           "id": "18",
+           "odpovede": [
+           		"Áno",
+           		"Neviem",
+           		"Nie"
+           ]
+           }]
+        
+        }
+    ]
+  }
+}

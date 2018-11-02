@@ -1,0 +1,200 @@
+{
+    "channelData": {
+        "categoryTitle" : "Zvolen",
+        "entries" : [
+            {
+            "title" : "Matej Snopko",
+            "url" : "/zvolen/matej-snopko",
+            "city_url" : "zvolen",
+            "city" : "Zvolen",
+            "cislo" : "5",
+            "summary" : "54 r., publicista, aktivista Zvolen pre ľudí, nezávislý kandidát, odpovede do volebnej kalkulačky nám neposlal.",
+            "answers" : null
+            },
+    
+            {
+            "title" : "Ivan Sitár",
+            "url" : "/zvolen/ivan-sitar",
+            "city_url" : "zvolen",
+            "city" : "Zvolen",
+            "cislo" : "4",
+            "summary" : "Ing., 51 r, podnikateľ, Kotleba - ĽSNS, , odpovede do volebnej kalkulačky nám neposlal.",
+            "answers" : null
+            },
+    
+            {
+            "title" : "Roland Schaller",
+            "url" : "/zvolen/roland-schaller",
+            "city_url" : "zvolen",
+            "city" : "Zvolen",
+            "cislo" : "3",
+            "summary" : "Ing., 44 r., riaditeľ letiska, nezávislý kandidát, odpovede do volebnej kalkulačky nám neposlal.",
+            "answers" : null
+            },
+    
+            {
+            "title" : "Miroslav Kusein",
+            "url" : "/zvolen/miroslav-kusein",
+            "city_url" : "zvolen",
+            "city" : "Zvolen",
+            "cislo" : "2",
+            "summary" : "Ing., 61 r., súkromný podnikateľ, nezávislý kandidát",
+            "answers" : [
+                {
+                   "questionID" : 1,
+                   "answerID" : 0
+                },
+                {
+                   "questionID" : 2,
+                   "answerID" : 0
+                },
+                {
+                   "questionID" : 3,
+                   "answerID" : 0
+                },
+                {
+                   "questionID" : 4,
+                   "answerID" : 0
+                },
+                {
+                   "questionID" : 5,
+                   "answerID" : 0
+                },
+                {
+                   "questionID" : 6,
+                   "answerID" : 0
+                },
+                {
+                   "questionID" : 7,
+                   "answerID" : 0
+                },
+                {
+                   "questionID" : 8,
+                   "answerID" : 2
+                },
+                {
+                   "questionID" : 9,
+                   "answerID" : 0
+                },
+                {
+                   "questionID" : 10,
+                   "answerID" : 0
+                },
+                {
+                   "questionID" : 11,
+                   "answerID" : 0
+                },
+                {
+                   "questionID" : 12,
+                   "answerID" : 2
+                },
+                {
+                   "questionID" : 13,
+                   "answerID" : 0
+                },
+                {
+                   "questionID" : 14,
+                   "answerID" : 2
+                },
+                {
+                   "questionID" : 15,
+                   "answerID" : 2
+                },
+                {
+                   "questionID" : 16,
+                   "answerID" : 0
+                },
+                {
+                   "questionID" : 17,
+                   "answerID" : 2
+                },
+                {
+                   "questionID" : 18,
+                   "answerID" : 0
+                }]
+            },
+    
+            {
+            "title" : "Lenka Balkovičová",
+            "url" : "/zvolen/lenka-balkovicova",
+            "city_url" : "zvolen",
+            "city" : "Zvolen",
+            "cislo" : "1",
+            "summary" : "Ing., 56 r., primátorka mesta Zvolen, nezávislá kandidátka",
+            "answers" : [
+                {
+                   "questionID" : 1,
+                   "answerID" : 0
+                },
+                {
+                   "questionID" : 2,
+                   "answerID" : 0
+                },
+                {
+                   "questionID" : 3,
+                   "answerID" : 0
+                },
+                {
+                   "questionID" : 4,
+                   "answerID" : 0
+                },
+                {
+                   "questionID" : 5,
+                   "answerID" : 2
+                },
+                {
+                   "questionID" : 6,
+                   "answerID" : 0
+                },
+                {
+                   "questionID" : 7,
+                   "answerID" : 2
+                },
+                {
+                   "questionID" : 8,
+                   "answerID" : 2
+                },
+                {
+                   "questionID" : 9,
+                   "answerID" : 2
+                },
+                {
+                   "questionID" : 10,
+                   "answerID" : 2
+                },
+                {
+                   "questionID" : 11,
+                   "answerID" : 2
+                },
+                {
+                   "questionID" : 12,
+                   "answerID" : 2
+                },
+                {
+                   "questionID" : 13,
+                   "answerID" : 0
+                },
+                {
+                   "questionID" : 14,
+                   "answerID" : 2
+                },
+                {
+                   "questionID" : 15,
+                   "answerID" : 2
+                },
+                {
+                   "questionID" : 16,
+                   "answerID" : 0
+                },
+                {
+                   "questionID" : 17,
+                   "answerID" : 2
+                },
+                {
+                   "questionID" : 18,
+                   "answerID" : 0
+                }]
+            }
+        ]
+      }
+    }

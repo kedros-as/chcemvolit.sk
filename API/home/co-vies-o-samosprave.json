@@ -1,0 +1,85 @@
+{"channelData": {
+    "categoryTitle" : "Home",
+    "entries" : [
+        {
+        	"title" : "KVÍZ: Čo vieš o samospráve?",
+        	"url_title" : "co-vies-o-samosprave",
+        	"channel_name" : "pages",
+        	"channel_title" : "Pages",
+        	"cislo" : "",
+       		"summary" : "Test na overenie znalostí o kompetenciách verejnej správy s dôrazom na miestnu samosprávu.",
+        	"fulltext" : "",
+        	"kandidati" : 0,  
+        	"poslanci" : 0,  
+        	"images" : null,  
+        	"odpovede" : null, 
+        	"otazky" : [{
+           "otazka": "<h4>Ako rozde\u013eujeme verejn\u00fa spr\u00e1vu na Slovensku?<\/h4>",
+           "id": "1",
+           "odpovede": [
+           		"Na štátnu správu a samosprávu ",
+           		"Národnú rádu Slovenskej repubiky, štátnu správu, samosprávu a obce ",
+           		"Na štátnu správu, samosprávu a obce"
+           ]
+           },{
+           "otazka": "<h4>Ako rozde\u013eujeme \u00fazemn\u00fa samospr\u00e1vu na Slovensku?<\/h4>",
+           "id": "2",
+           "odpovede": [
+           		"Obecná samospráva (obce a mesta), miestna samospráva (okresy) a regionálna územná samospráva (samosprávne kraje)",
+           		"Miestna územná samospráva (obce a mesta) a regionálna územná samospráva (samosprávne kraje)",
+           		"Štátna správa (vláda, ministerstva, ústredné orgány štátnej správy) a miestna štátna správa (krajské a okresné úrady)"
+           ]
+           },{
+           "otazka": "<h4>Na plnenie \u00faloh samospr\u00e1vy (alebo ak to ustanovuje z\u00e1kon) mesta a obce vyd\u00e1vaj\u00fa v\u0161eobecne z\u00e1v\u00e4zn\u00e9:<\/h4>",
+           "id": "3",
+           "odpovede": [
+           		"vyhlášky",
+           		"smernice",
+           		"nariadenia"
+           ]
+           },{
+           "otazka": "<h4>Ktor\u00e9 z uveden\u00e9ho nie je v kompetencii prim\u00e1tora \/ starostu:<\/h4>",
+           "id": "4",
+           "odpovede": [
+           		"zvoláva a vedie zasadnutia mestského (obecného) zastupiteľstva a podpisuje ich uznesenia",
+           		"predkladá mestskému zastupiteľstvu najmenej raz ročne správu o kontrolnej činnosti, a to do 60 dní po uplynutí kalendárneho roku",
+           		"vydáva pracovný poriadok, organizačný poriadok mestského úradu a poriadok odmeňovania zamestnancov mesta"
+           ]
+           },{
+           "otazka": "<h4>Mestsk\u00e9 zastupite\u013estvo zria\u010fuje pod\u013ea potreby st\u00e1le alebo do\u010dasne v\u00fdkonn\u00e9, kontroln\u00e9 a poradne org\u00e1ny:<\/h4>",
+           "id": "5",
+           "odpovede": [
+           		"výbory",
+           		"mestské rady",
+           		"komisie"
+           ]
+           },{
+           "otazka": "<h4>Voli\u0165 org\u00e1ny samospr\u00e1vy obce a by\u0165 zvolen\u00fd do org\u00e1nu samospr\u00e1vy obce m\u00f4\u017ee:<\/h4>",
+           "id": "6",
+           "odpovede": [
+           		"cudzinec s trvalým pobytom v obci ",
+           		"občan s trvalým alebo prechodným pobytom v obci",
+           		"občan, ktorý má na území obce nehnuteľný majetok"
+           ]
+           },{
+           "otazka": "<h4>Ako \u010dasto z\u00e1sada mestsk\u00e9 zastupite\u013estvo?<\/h4>",
+           "id": "7",
+           "odpovede": [
+           		"zasadá podľa potreby, najmenej však raz za dva mesiace",
+           		"zasadá podľa potreby, najviac však raz za mesiac",
+           		"zasadá podľa potreby, najmenej však raz za tri mesiace"
+           ]
+           },{
+           "otazka": "<h4>Poslanec zastupite\u013estva, ktor\u00fd je podnikate\u013e a m\u00e1 z\u00e1kazky od obce, v pr\u00edpade, \u017ee je v konflikte z\u00e1ujmov, m\u00e1 povinnos\u0165 o tom upozorni\u0165:<\/h4>",
+           "id": "8",
+           "odpovede": [
+           		"hlavného kontrolóra",
+           		"zastupiteľstvo",
+           		"primátora / starostu"
+           ]
+           }]
+        
+        }
+    ]
+  }
+}

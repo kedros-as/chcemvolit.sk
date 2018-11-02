@@ -1,0 +1,37 @@
+{"channelData": {
+    "categoryTitle" : "Sv.Anton",
+    "entries" : [
+        {
+        	"title" : "Informácie k voľbám Sv.Anton",
+        	"url_title" : "informacie-k-volbam-sv-anton",
+        	"channel_name" : "pages",
+        	"channel_title" : "Pages",
+        	"cislo" : "",
+       		"summary" : "Zoznam kandidátov a informácie pre voliča"
+        },
+
+        {
+        	"title" : "Odporúčania kandidátom na starostu a poslancom obecného zastupiteľstva ",
+        	"url_title" : "odporucania-kandidatom",
+        	"channel_name" : "pages",
+        	"channel_title" : "Pages",
+        	"cislo" : "",
+       		"summary" : "od Rómov žijúcich v obci Sv. Antona."
+        },{
+        	"title": "",
+            "url_title": "",
+            "images": [{
+               "image" : "/images/uploads/kviz.jpg",
+               "location": "\/home\/co-vies-o-samosprave",
+               "desc" : "kviz.jpg"},{
+               "image" : "/images/uploads/obec_kompetencie.png",
+               "desc" : "obec_kompetencie.png"},{
+               "image" : "/images/uploads/obec_pravomoci.png",
+               "desc" : "obec_pravomoci.png"},{
+               "image" : "/images/uploads/obec_rozhodovanie.png",
+               "desc" : "obec_rozhodovanie.png"}
+               ]}
+               
+    ]
+  }
+}

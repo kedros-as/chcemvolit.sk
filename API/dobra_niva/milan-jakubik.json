@@ -1,0 +1,21 @@
+{"channelData": {
+    "categoryTitle" : "Dobrá Niva",
+    "entries" : [
+        {
+        	"title" : "Milan Jakubík",
+        	"url_title" : "milan-jakubik",
+        	"channel_name" : "kandidati",
+        	"channel_title" : "Kandidáti",
+        	"cislo" : "1",
+       		"summary" : "Ing., 37 r., ekonóm, asistent audítora, nezávislý kandidát",
+        	"fulltext" : "<footer><\/footer>\n\n<p> <\/p><div><div><p>Kandid\u00e1t n\u00e1m do term\u00ednu na ot\u00e1zky neodpovedal.<\/p>\n\n<div><\/div>\n\n<p> <\/p>\n<\/div>\n\n<p> <\/p>\n<\/div>\n\n<p> <\/p>",
+        	"kandidati" : 0,  
+        	"poslanci" : 0,  
+        	"images" : null,  
+        	"odpovede" : null, 
+        	"otazky" : null
+        
+        }
+    ]
+  }
+}

@@ -1,22 +1,22 @@
 {"channelData": {
-    "categoryTitle" : "Zvolen",
+    "categoryTitle" : "Home",
     "entries" : [
         {
-        	"title" : "Volebná kalkulačka Zvolen",
-        	"url_title" : "volebna-kalkulacka",
+        	"title" : "KVÍZ: Čo vieš o samospráve?",
+        	"url_title" : "co-vies-o-samosprave",
         	"channel_name" : "pages",
         	"channel_title" : "Pages",
         	"cislo" : "",
-       		"summary" : "Otázky boli odoslané všetkým kandidátom, ale v stanovenom termíne odpovedali len pani Balkovičová a pán Kusein. V prípade, že obdržíme odpovede od ďalších kandidátov, tieto budú dodatočne zapracované do volebnej kalkulačky. "
+       		"summary" : "Test na overenie znalostí o kompetenciách verejnej správy s dôrazom na miestnu samosprávu."
         },
 
         {
-        	"title" : "Informácie k voľbám Zvolen",
-        	"url_title" : "informacie-k-volbam-zvolen",
+        	"title" : "Voľby do orgánov samosprávy obcí",
+        	"url_title" : "informacie-k-volbam-2018",
         	"channel_name" : "pages",
         	"channel_title" : "Pages",
         	"cislo" : "",
-       		"summary" : "Zoznam kandidátov a informácie pre voliča"
+       		"summary" : "Informácie pre voliča"
         },{
         	"title": "",
             "url_title": "",

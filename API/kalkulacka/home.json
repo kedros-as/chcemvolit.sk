@@ -1,0 +1,48 @@
+{
+    "channelData": {
+        "categoryTitle" : "Home",
+        "entries" : [
+            {
+            "title" : "Kvíz hodnotenie",
+            "url" : "/home/kviz-hodnotenie",
+            "city_url" : "home",
+            "city" : "Home",
+            "cislo" : "",
+            "summary" : "",
+            "answers" : [
+                {
+                   "questionID" : 1,
+                   "answerID" : 0
+                },
+                {
+                   "questionID" : 2,
+                   "answerID" : 1
+                },
+                {
+                   "questionID" : 3,
+                   "answerID" : 2
+                },
+                {
+                   "questionID" : 4,
+                   "answerID" : 1
+                },
+                {
+                   "questionID" : 5,
+                   "answerID" : 2
+                },
+                {
+                   "questionID" : 6,
+                   "answerID" : 0
+                },
+                {
+                   "questionID" : 7,
+                   "answerID" : 2
+                },
+                {
+                   "questionID" : 8,
+                   "answerID" : 1
+                }]
+            }
+        ]
+      }
+    }
