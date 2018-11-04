@@ -1,0 +1,93 @@
+{"channelData": {
+    "categoryTitle" : "Zvolen",
+    "entries" : [
+        {
+        	"title" : "Lenka Balkovičová",
+        	"url_title" : "lenka-balkovicova",
+        	"channel_name" : "kandidati",
+        	"channel_title" : "Kandidáti",
+        	"cislo" : "1",
+       		"summary" : "Ing., 56 r., primátorka mesta Zvolen, nezávislá kandidátka",
+        	"fulltext" : "<p>Porovnajte si svoje n\u00e1zory s kandid\u00e1tkou na <a href=\"\/zvolen\/volebna-kalkulacka\" title=\"\">Volebn\u00e1 kalkula\u010dka<\/a><\/p>",
+        	"kandidati" : 0,  
+        	"poslanci" : 0,  
+        	"images" : null,  
+        	"odpovede" : [
+            {
+               "otazkaID" : 1,
+               "odpoved" : 0
+            },
+            {
+               "otazkaID" : 2,
+               "odpoved" : 0
+            },
+            {
+               "otazkaID" : 3,
+               "odpoved" : 0
+            },
+            {
+               "otazkaID" : 4,
+               "odpoved" : 0
+            },
+            {
+               "otazkaID" : 5,
+               "odpoved" : 2
+            },
+            {
+               "otazkaID" : 6,
+               "odpoved" : 0
+            },
+            {
+               "otazkaID" : 7,
+               "odpoved" : 2
+            },
+            {
+               "otazkaID" : 8,
+               "odpoved" : 2
+            },
+            {
+               "otazkaID" : 9,
+               "odpoved" : 2
+            },
+            {
+               "otazkaID" : 10,
+               "odpoved" : 2
+            },
+            {
+               "otazkaID" : 11,
+               "odpoved" : 2
+            },
+            {
+               "otazkaID" : 12,
+               "odpoved" : 2
+            },
+            {
+               "otazkaID" : 13,
+               "odpoved" : 0
+            },
+            {
+               "otazkaID" : 14,
+               "odpoved" : 2
+            },
+            {
+               "otazkaID" : 15,
+               "odpoved" : 2
+            },
+            {
+               "otazkaID" : 16,
+               "odpoved" : 0
+            },
+            {
+               "otazkaID" : 17,
+               "odpoved" : 2
+            },
+            {
+               "otazkaID" : 18,
+               "odpoved" : 0
+            }], 
+        	"otazky" : null
+        
+        }
+    ]
+  }
+}

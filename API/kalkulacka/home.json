@@ -3,7 +3,7 @@
         "categoryTitle" : "Home",
         "entries" : [
             {
-            "title" : "Kvíz hodnotenie",
+            "title" : "Vyhodnotenie kvízu: ",
             "url" : "/home/kviz-hodnotenie",
             "city_url" : "home",
             "city" : "Home",
