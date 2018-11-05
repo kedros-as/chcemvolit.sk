@@ -42,13 +42,23 @@
         },
 
         {
+        	"title" : "Emil Šimko",
+        	"url_title" : "emil-simko",
+        	"channel_name" : "kandidati",
+        	"channel_title" : "Kandidáti",
+        	"cislo" : "",
+        	"summary" : "39 r., SZČO, Smer – sociálna demokracia",
+        	"fulltext" : "<footer><\/footer>\n\n<p> <\/p><p>Kandid\u00e1t n\u00e1m do term\u00ednu na ot\u00e1zky neodpovedal.<\/p>\n\n<div><\/div>\n\n<p> <\/p>"
+        },
+
+        {
         	"title" : "Ľubomír Švarc",
         	"url_title" : "lubomir-svarc",
         	"channel_name" : "kandidati",
         	"channel_title" : "Kandidáti",
         	"cislo" : "",
         	"summary" : "73 r., dôchodca, Smer – sociálna demokracia",
-        	"fulltext" : "<p>Kandid\u00e1t n\u00e1m do term\u00ednu na ot\u00e1zky neodpovedal.<\/p>"
+        	"fulltext" : "<footer><\/footer>\n\n<p><b>Pre\u010do ste sa rozhodli kandidova\u0165 za poslanca\/poslanky\u0148u?<\/b><\/p>\n\n<p>Nie je mi \u013eahostajn\u00e1 spr\u00e1va obce, m\u00e1m bohat\u00e9 sk\u00fasenosti a preh\u013ead, ktor\u00e9 m\u00f4\u017eu by\u0165 pre obec prospe\u0161n\u00e9.<\/p>\n\n<p><b>Ktorej oblasti \u017eivota obce sa chcete venova\u0165?<\/b><\/p>\n\n<p>V\u0161eobecne \u010do m\u00f4\u017eem obsiahnu\u0165. Zauj\u00edma ma \u017eivotn\u00e9 prostredie a ochrana pr\u00edrody a vodn\u00fdch tokov v obci aj v extravil\u00e1ne.<\/p>\n\n<p><b>\u010co chcete zlep\u0161i\u0165 v \u017eivote ob\u010danov?<\/b><\/p>\n\n<p>Chcel by som aby sa v dome slu\u017eieb zriadilo nie\u010do pre seniorov.<b> <\/b><\/p>\n\n<p><b>V pr\u00edpade, \u017ee nebudete zvolen\u00fd\/\u00e1, budete sa \u010falej anga\u017eova\u0165 vo verejnom\/ spolo\u010denskom \u017eivote v obci? Ak \u00e1no, v akej oblasti?<\/b><\/p>\n\n<p>Budem, \u010do som robil aj doteraz. Podporujem a sponzorujem dobr\u00e9 aktivity.<\/p>\n\n<p> <\/p>"
         },
 
         {
@@ -98,7 +108,7 @@
         	"channel_title" : "Kandidáti",
         	"cislo" : "",
         	"summary" : "37 r., mechanik údržby, Smer – sociálna demokracia",
-        	"fulltext" : "<p>Kandid\u00e1t n\u00e1m do term\u00ednu na ot\u00e1zky neodpovedal.<\/p>"
+        	"fulltext" : "<footer><\/footer>\n\n<p> <\/p><div><div><p>Kandid\u00e1t n\u00e1m do term\u00ednu na ot\u00e1zky neodpovedal.<\/p>\n\n<div><\/div>\n\n<p> <\/p>\n<\/div>\n\n<p> <\/p>\n<\/div>\n\n<p> <\/p>"
         },
 
         {
@@ -129,16 +139,6 @@
         	"cislo" : "",
         	"summary" : "Mgr., 59 r., učiteľ, Smer – sociálna demokracia",
         	"fulltext" : "<p><b>Pre\u010do ste sa rozhodli kandidova\u0165 za poslanca\/poslanky\u0148u?<\/b><\/p>\n\n<p>Cel\u00fd svoj \u017eivot sa v obci anga\u017eujem a sna\u017e\u00edm sa pom\u00e1ha\u0165 pri rie\u0161en\u00ed probl\u00e9mov, ktor\u00e9 sa v obci vyskytn\u00fa. Sna\u017e\u00edm sa vytv\u00e1ra\u0165 v\u0161etky podmienky pre spokojn\u00fd \u017eivot v obci.<\/p>\n\n<p><b>Ktorej oblasti \u017eivota obce sa chcete venova\u0165?<\/b><\/p>\n\n<p>V uplynulom volebnom obdob\u00ed som bol predseda komisie pre \u0161kolstvo, kult\u00faru a \u0161port. Najm\u00e4 tieto oblasti s\u00fa vo sf\u00e9re mojich z\u00e1ujmov.<\/p>\n\n<p><b>\u010co chcete zlep\u0161i\u0165 v \u017eivote ob\u010danov?<\/b><\/p>\n\n<p>Chcem podporova\u0165 spolo\u010densk\u00e9 aktivity v\u0161etk\u00fdch organiz\u00e1ci\u00ed a zdru\u017een\u00ed, ktor\u00e9 p\u00f4sobia v na\u0161ej obci a pom\u00e1ha\u0165 vytv\u00e1ra\u0165 podmienky pre kult\u00farnu i \u0161portov\u00fa \u010dinnos\u0165 mlad\u00fdch \u013eud\u00ed a \u0161irokej verejnosti.<b> <\/b><\/p>\n\n<p><b>V pr\u00edpade, \u017ee nebudete zvolen\u00fd\/\u00e1, budete sa \u010falej anga\u017eova\u0165 vo verejnom\/ spolo\u010denskom \u017eivote v obci? Ak \u00e1no, v akej oblasti?<\/b><\/p>\n\n<p>Aj v pr\u00edpade nezvolenia za poslanca sa budem na\u010falej anga\u017eova\u0165 vo verejnom \u017eivote v obci. Mysl\u00edm, \u017ee to patr\u00ed k m\u00f4jmu \u017eivotn\u00e9mu \u0161t\u00fdlu, je to moja z\u00e1\u013euba. A v ktorej oblasti? No v tej \u010do i doteraz.<\/p>\n\n<p> <\/p>"
-        },
-
-        {
-        	"title" : "Emil Šimko",
-        	"url_title" : "emil-simko",
-        	"channel_name" : "kandidati",
-        	"channel_title" : "Kandidáti",
-        	"cislo" : "",
-        	"summary" : "39 r., SZČO, Smer – sociálna demokracia",
-        	"fulltext" : "<p>Kandid\u00e1t n\u00e1m do term\u00ednu na ot\u00e1zky neodpovedal.<\/p>"
         },
 
         {
