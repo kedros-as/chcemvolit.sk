@@ -1,0 +1,31 @@
+{"channelData": {
+    "categoryTitle" : "Lučenec",
+    "entries" : [
+        {
+        	"title" : "Volebná kalkulačka Lučenec",
+        	"url_title" : "volebna-kalkulacka-lucenec",
+        	"channel_name" : "pages",
+        	"channel_title" : "Pages",
+        	"cislo" : "",
+       		"summary" : "Otázky boli odoslané všetkým kandidátom, ale v stanovenom termíne odpovedali len pani Endródyová a pán Bodnár. V prípade, že obdržíme odpovede od ďalších kandidátov, tieto budú dodatočne zapracované do volebnej kalkulačky. "
+        },
+
+        {
+        	"title" : "Informácie k voľbám Lučenec",
+        	"url_title" : "informacie-k-volbam-lucenec",
+        	"channel_name" : "pages",
+        	"channel_title" : "Pages",
+        	"cislo" : "",
+       		"summary" : "Zoznam kandidátov a informácie pre voliča"
+        },{
+        	"title": "",
+            "url_title": "",
+            "images": [{
+               "image" : "/images/uploads/kalkulacka-lucenec.jpg",
+               "location": "\/lucenec\/volebna-kalkulacka-lucenec",
+               "desc" : "Volebná kalkulačka Lučenec"}
+               ]}
+               
+    ]
+  }
+}

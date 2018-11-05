@@ -1,0 +1,132 @@
+{
+    "channelData": {
+        "categoryTitle" : "Lučenec",
+        "entries" : [
+            {
+            "title" : "Alexandra Pivková",
+            "url" : "/lucenec/alexandra-pivkova",
+            "city_url" : "lucenec",
+            "city" : "Lučenec",
+            "cislo" : "3",
+            "summary" : "PhDr., 54 r., primátorka, nezávislá kandidátka",
+            "answers" : null
+            },
+    
+            {
+            "title" : "Renáta Endrödyová",
+            "url" : "/lucenec/renata-endrodyova",
+            "city_url" : "lucenec",
+            "city" : "Lučenec",
+            "cislo" : "2",
+            "summary" : "JUDr., 49 r., advokátka, nezávislá kandidátka",
+            "answers" : [
+                {
+                   "questionID" : 1,
+                   "answerID" : 0
+                },
+                {
+                   "questionID" : 2,
+                   "answerID" : 2
+                },
+                {
+                   "questionID" : 3,
+                   "answerID" : 0
+                },
+                {
+                   "questionID" : 4,
+                   "answerID" : 0
+                },
+                {
+                   "questionID" : 5,
+                   "answerID" : 0
+                },
+                {
+                   "questionID" : 6,
+                   "answerID" : 0
+                },
+                {
+                   "questionID" : 7,
+                   "answerID" : 0
+                },
+                {
+                   "questionID" : 8,
+                   "answerID" : 0
+                },
+                {
+                   "questionID" : 9,
+                   "answerID" : 0
+                },
+                {
+                   "questionID" : 10,
+                   "answerID" : 0
+                },
+                {
+                   "questionID" : 11,
+                   "answerID" : 0
+                },
+                {
+                   "questionID" : 12,
+                   "answerID" : 0
+                }]
+            },
+    
+            {
+            "title" : "Boris Bodnár",
+            "url" : "/lucenec/boris-bodnar",
+            "city_url" : "lucenec",
+            "city" : "Lučenec",
+            "cislo" : "1",
+            "summary" : "Ing., 57 r., výsluhový dóchodca. Komunistická strana Slovenska",
+            "answers" : [
+                {
+                   "questionID" : 1,
+                   "answerID" : 0
+                },
+                {
+                   "questionID" : 2,
+                   "answerID" : 0
+                },
+                {
+                   "questionID" : 3,
+                   "answerID" : 2
+                },
+                {
+                   "questionID" : 4,
+                   "answerID" : 0
+                },
+                {
+                   "questionID" : 5,
+                   "answerID" : 0
+                },
+                {
+                   "questionID" : 6,
+                   "answerID" : 0
+                },
+                {
+                   "questionID" : 7,
+                   "answerID" : 0
+                },
+                {
+                   "questionID" : 8,
+                   "answerID" : 0
+                },
+                {
+                   "questionID" : 9,
+                   "answerID" : 0
+                },
+                {
+                   "questionID" : 10,
+                   "answerID" : 0
+                },
+                {
+                   "questionID" : 11,
+                   "answerID" : 0
+                },
+                {
+                   "questionID" : 12,
+                   "answerID" : 0
+                }]
+            }
+        ]
+      }
+    }

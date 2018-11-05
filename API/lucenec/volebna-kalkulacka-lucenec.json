@@ -1,0 +1,117 @@
+{"channelData": {
+    "categoryTitle" : "Lučenec",
+    "entries" : [
+        {
+        	"title" : "Volebná kalkulačka Lučenec",
+        	"url_title" : "volebna-kalkulacka-lucenec",
+        	"channel_name" : "pages",
+        	"channel_title" : "Pages",
+        	"cislo" : "",
+       		"summary" : "Otázky boli odoslané všetkým kandidátom, ale v stanovenom termíne odpovedali len pani Endródyová a pán Bodnár. V prípade, že obdržíme odpovede od ďalších kandidátov, tieto budú dodatočne zapracované do volebnej kalkulačky. ",
+        	"fulltext" : "",
+        	"kandidati" : 0,  
+        	"poslanci" : 0,  
+        	"images" : null,  
+        	"odpovede" : null, 
+        	"otazky" : [{
+           "otazka": "<h5>Pl\u00e1nujete roz\u0161\u00edrenie kapac\u00edt MHD a pr\u00edmestskej dopravy) v mestskej a pr\u00edmestskej hromadnej doprave?<\/h5>",
+           "id": "1",
+           "odpovede": [
+           		"Áno",
+           		"Neviem",
+           		"Nie"
+           ]
+           },{
+           "otazka": "<h5>Maj\u00fa by\u0165 Mestsk\u00e9 lesy prim\u00e1rne zdrojom pr\u00edjmu?<\/h5>",
+           "id": "2",
+           "odpovede": [
+           		"Áno",
+           		"Neviem",
+           		"Nie"
+           ]
+           },{
+           "otazka": "<h5>Maj\u00fa by\u0165 Mestsk\u00e9 lesy prim\u00e1rne miestom oddychu?<\/h5>",
+           "id": "3",
+           "odpovede": [
+           		"Áno",
+           		"Neviem",
+           		"Nie"
+           ]
+           },{
+           "otazka": "<h5>Pl\u00e1nujete zlep\u0161i\u0165 a roz\u0161\u00edri\u0165 osvetlenie ul\u00edc?<\/h5>",
+           "id": "4",
+           "odpovede": [
+           		"Áno",
+           		"Neviem",
+           		"Nie"
+           ]
+           },{
+           "otazka": "<h5>M\u00e1te pripraven\u00fd pl\u00e1n aktiv\u00edt na podporu vzniku nov\u00fdch a udr\u017eania existuj\u00facich pracovn\u00fdch miest?<\/h5>",
+           "id": "5",
+           "odpovede": [
+           		"Áno",
+           		"Neviem",
+           		"Nie"
+           ]
+           },{
+           "otazka": "<h5>Pl\u00e1nujete o\u017eivi\u0165 Masarykovu ulici a Kub\u00ednyiho n\u00e1mestie?<\/h5>",
+           "id": "6",
+           "odpovede": [
+           		"Áno",
+           		"Neviem",
+           		"Nie"
+           ]
+           },{
+           "otazka": "<h5>Po\u010d\u00edtate vo svojom volebnom programe s opatreniami na ochranu verejnej zelene a \u017eivotn\u00e9ho prostredia v\u00f4bec? <\/h5>",
+           "id": "7",
+           "odpovede": [
+           		"Áno",
+           		"Neviem",
+           		"Nie"
+           ]
+           },{
+           "otazka": "<h5>Chcete reorganizova\u0165 a zefekt\u00edvni\u0165 fungovanie Mestsk\u00e9ho \u00faradu?<\/h5>",
+           "id": "8",
+           "odpovede": [
+           		"Áno",
+           		"Neviem",
+           		"Nie"
+           ]
+           },{
+           "otazka": "<h5>Pozn\u00e1te v\u00edziu \u201eSlu\u0161n\u00e9 mest\u00e1 a obce Slovenska\u201c<\/h5>",
+           "id": "9",
+           "odpovede": [
+           		"Áno",
+           		"Neviem",
+           		"Nie"
+           ]
+           },{
+           "otazka": "<h5>Stoto\u017e\u0148ujete sa s \u0148ou a budete sa pod\u013ea nej riadi\u0165?<\/h5>",
+           "id": "10",
+           "odpovede": [
+           		"Áno",
+           		"Neviem",
+           		"Nie"
+           ]
+           },{
+           "otazka": "<h5>Pl\u00e1nujete udr\u017ea\u0165 a roz\u0161\u00edri\u0165 \u010dinnos\u0165 mestsk\u00fdch kult\u00farnych in\u0161tit\u00faci\u00ed?<\/h5>",
+           "id": "11",
+           "odpovede": [
+           		"Áno",
+           		"Neviem",
+           		"Nie"
+           ]
+           },{
+           "otazka": "<h5>Budete v\u0161etky investi\u010dn\u00e9 akcie vopred jasne a zrozumite\u013ene komunikova\u0165 ob\u010danom mesta?<\/h5>",
+           "id": "12",
+           "odpovede": [
+           		"Áno",
+           		"Neviem",
+           		"Nie"
+           ]
+           }]
+        
+        }
+    ]
+  }
+}
