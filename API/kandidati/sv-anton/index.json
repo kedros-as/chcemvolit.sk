@@ -2,32 +2,22 @@
     "categoryTitle" : "Kandidáti Sv.Anton",
     "entries" : [
         {
-        	"title" : "Juraj Fekiač",
-        	"url_title" : "juraj-fekiac",
+        	"title" : "Andrea Benediktyová",
+        	"url_title" : "andrea-benediktyova",
         	"channel_name" : "kandidati",
         	"channel_title" : "Kandidáti",
         	"cislo" : "1",
-        	"summary" : "42r., strojný zámočník, Sloboda a Solidarita, OBYČAJNÍ ĽUDIA a nezávislé osobnosti (OĽANO), SME RODINA – Boris Kollár",
+        	"summary" : "Bc., 44 r., samostatná referentka, nezávislý kandidát",
         	"fulltext" : null
         },
 
         {
-        	"title" : "Mário Hanzel",
-        	"url_title" : "mario-hanzel",
+        	"title" : "Martin Kminiak",
+        	"url_title" : "martin-kminiak",
         	"channel_name" : "kandidati",
         	"channel_title" : "Kandidáti",
         	"cislo" : "2",
-        	"summary" : "Ing., 43r., žurnalista, DOMA DOBRE",
-        	"fulltext" : null
-        },
-
-        {
-        	"title" : "Ivona Patrášová",
-        	"url_title" : "ivona-patrasova",
-        	"channel_name" : "kandidati",
-        	"channel_title" : "Kandidáti",
-        	"cislo" : "3",
-        	"summary" : "51r., ekonómka, Slovenská národná strana",
+        	"summary" : "38 r., vodič – záchranár, Slovenská národná strana",
         	"fulltext" : null
         }
     ]
