@@ -32,6 +32,16 @@
         },
 
         {
+        	"title" : "Ing. Ján Očenáš",
+        	"url_title" : "ing.-jan-ocenas",
+        	"channel_name" : "kandidati",
+        	"channel_title" : "Kandidáti",
+        	"cislo" : "",
+        	"summary" : " Ing., kandidát Kotleba ĽS NS na poslanca",
+        	"fulltext" : "<p>Kandid\u00e1t n\u00e1m do term\u00ednu na ot\u00e1zky neodpovedal.<\/p>"
+        },
+
+        {
         	"title" : "Ivan Dendiš",
         	"url_title" : "ivan-dendis",
         	"channel_name" : "kandidati",
@@ -159,6 +169,16 @@
         	"cislo" : "",
         	"summary" : "kandidát KDH na poslanca",
         	"fulltext" : "<p><b>Pre\u010do ste sa rozhodli kandidova\u0165 za poslanca?<\/b><\/p>\n\n<p>Za poslanca som sa rozhodol kandidova\u0165 preto, aby som pomohol posun\u00fa\u0165 obec Bzov\u00edk dopredu. Chcem prida\u0165 ruku k dielu a vytvori\u0165 \u010do najlep\u0161ie podmienky vhodn\u00e9 pre \u017eivot. Taktie\u017e by som chcel uskuto\u010dni\u0165 v\u0161etky potrebn\u00e9 projekty, ktor\u00e9 s\u00fa nevyhnutn\u00e9 pre plnohodnotn\u00fd \u017eivot, \u010di u\u017e pre mlad\u00e9 rodiny, alebo star\u0161\u00edch ob\u010danov. Moj\u00edm cie\u013eom je pom\u00f4c\u0165 tam, kde to bude treba, samozrejme v r\u00e1mci mojich mo\u017enost\u00ed a schopnost\u00ed. <\/p>\n\n<p> <\/p>\n\n<p><b>V akej oblasti, \u010di pri rie\u0161en\u00ed ak\u00fdch probl\u00e9mov, sa najlep\u0161ie vyzn\u00e1te a m\u00f4\u017eete by\u0165 ob\u010danom n\u00e1pomocn\u00fd?<\/b><\/p>\n\n<p>Oblas\u0165, ktorej sa chcem venova\u0165, respekt\u00edve pokra\u010dova\u0165 v nej, je \u0161portovo - kult\u00farna oblas\u0165. <\/p>\n\n<p> <\/p>\n\n<p><b>Ktor\u00e9 3 konkr\u00e9tne veci chcete urobi\u0165 pre obec Bzov\u00edk a jej ob\u010danov?<\/b><\/p>\n\n<p>1. moderniz\u00e1cia futbalov\u00e9ho ihriska a tenisov\u00fdch kurtov<\/p>\n\n<p>2. vybudovanie nov\u00fdch detsk\u00fdch a multifunk\u010dn\u00fdch ihr\u00edsk<\/p>\n\n<p> <\/p>\n\n<p>3. v\u00fdstavba nov\u00fdch bytov\u00fdch jednotiek pre mlad\u00e9 rodiny<\/p>"
+        },
+
+        {
+        	"title" : "Svetlana Juchová",
+        	"url_title" : "svetlana-juchova",
+        	"channel_name" : "kandidati",
+        	"channel_title" : "Kandidáti",
+        	"cislo" : "",
+        	"summary" : "Ing. Bc., nezávislá kandidátka na poslanca",
+        	"fulltext" : "<p>Kandid\u00e1tka n\u00e1m do term\u00ednu na ot\u00e1zky neodpovedala<\/p>"
         }
     ]
   }

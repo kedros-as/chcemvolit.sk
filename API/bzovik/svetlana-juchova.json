@@ -1,0 +1,21 @@
+{"channelData": {
+    "categoryTitle" : "Bzovík",
+    "entries" : [
+        {
+        	"title" : "Svetlana Juchová",
+        	"url_title" : "svetlana-juchova",
+        	"channel_name" : "kandidati",
+        	"channel_title" : "Kandidáti",
+        	"cislo" : "",
+       		"summary" : "Ing. Bc., nezávislá kandidátka na poslanca",
+        	"fulltext" : "<p>Kandid\u00e1tka n\u00e1m do term\u00ednu na ot\u00e1zky neodpovedala<\/p>",
+        	"kandidati" : 0,  
+        	"poslanci" : 0,  
+        	"images" : null,  
+        	"odpovede" : null, 
+        	"otazky" : null
+        
+        }
+    ]
+  }
+}
